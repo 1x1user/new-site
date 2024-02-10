@@ -313,7 +313,6 @@ body{
         text-align: center;
     }
     .header{
-        position: inherit;
         z-index: 51;
     }
     
